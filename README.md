@@ -19,7 +19,7 @@
   </ul>
   </div></nav>
   <hr>
-  <h3><img src="사진들/노주현 증명사진.jpg" width="120", height="150"/>
+  <h3><img src="사진들/노주현 증명사진.jpg" width="120", height="150">
   <div id = "b">안녕하세요! 저는 노주현입니다.</div></h3>
   <p><div id = "c">순천향대학교에서 컴퓨터소프트웨어공학과에서 공부하고있는 1학년 학생입니다. 
     <br>솔직히 오기 전에는 코딩을 잘 알지 못해 두려웠지만 공부하다보니 재밌어지고 <br>관심이 높아져 열심히 노력하고있습니다.</div></p>
@@ -43,7 +43,7 @@
   <h4><div id = "i">[이메일 주소]</div></h4>
   <a href="mailto:shwngus18@naver.com">노주현에게 이메일 보내기!</a><hr>
   <table border ="3">
-    <caption><div id = "j"><노주현의 시간표></div></caption>
+    <caption>노주현의 시간표
     <tbody>
       <tr>
         <td>시간\요일</td>
@@ -127,12 +127,12 @@
 </footer>
 <form>
   <input type="text" placeholder="ex) 재밌게 잘 봤어요" name="방명록">
-</textarea><br><br>
+<br><br>
 <button type="submit">완료</button>
 <button type="reset">지우기</button><hr>
 </form>
 
-<h3></h3><div id = "l">링크를 복사해서 크롬으로 접속해보세요 !</div></h3><br>
+<h3><div id = "l">링크를 복사해서 크롬으로 접속해보세요 !</div></h3><br>
 <button id="copyButton">링크 복사하기</button>
 
 <script>
