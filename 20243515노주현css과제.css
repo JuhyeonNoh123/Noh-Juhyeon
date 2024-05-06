@@ -1,0 +1,42 @@
+
+body {background :#E0EEE0 ; font-family: courier ;}
+
+#a {color : rgb(32, 118, 105) ; font-size: xx-large ; background-color: rgba(142, 246, 131, 0.715);}
+#b {color : rgb(21, 104, 9) ;}
+#d {background-color: #9bf29b ;}
+#f { margin-right : 10px; border : 2px solid #609460 ; margin-left : 5px}
+#g { margin-right : 10px; border : 2px solid #609460 ; margin-left : 40px}
+#h {background-color: #9bf29b ;}
+#i {background-color: #9bf29b ;}
+#k {background-color :#9bf29b ;}
+#e {text-align: right; list-style-position: inside ;}
+
+table {color : #3c5e3c ; background-color: rgb(238, 226, 241); font-weight: 600 ; text-align: center ;}
+
+img {float: right ;}
+
+#b::first-letter {color : rgb(21, 104, 9) ; font-size: xx-large ; background-color:  #bcdb5d ;}
+
+nav {text-decoration : none ;}
+nav ul {list-style: none; display : flex ; justify-content: flex-end; background-color: rgba(205, 203, 203, 0.888);}
+nav li {margin-right : 15px;}
+a:hover {background-color: gray; color : rgb(38, 239, 243); padding : 3px ; font-weight: bold ; }
+
+.container {display: flex; border : 2px solid ; }
+  
+  .combined-div {display: flex; }
+  
+td:hover {background-color: yellowgreen ; color : blue}
+
+#l {background-color: #9bf29b; font-weight: 400;}
+
+
+@media (max-width: 600px) 
+{body 
+  {font-size: 14px;}
+}
+
+@media (max-width: 900px) 
+{body 
+  {font-size: 12px;}
+}
